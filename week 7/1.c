@@ -46,7 +46,7 @@ int main() {
         printf("%d > ", temp->data);
         temp = temp->ptr;
     }
-
+ 
     printf("NULL\n");
 
     return 0;
